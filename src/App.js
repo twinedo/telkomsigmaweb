@@ -123,6 +123,7 @@ function App() {
                 alt="under"
                 style={{ height: 300 }}
               />
+              <h3>Twin Edo Nugraha | ReactJS | 2022</h3>
             </div>
           )}
         </div>
